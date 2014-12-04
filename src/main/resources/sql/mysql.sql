@@ -1,0 +1,10 @@
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880001', 'CDC');
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880002', 'CDC');
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880003', 'CDC');
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880004', 'CDC');
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880005', 'CDC');
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880006', 'CDC');
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880007', 'CDC');
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880008', 'CDC');
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880009', 'CDC');
+INSERT INTO `spring`.`employee` (`id`, `department`) VALUES ('10880010', 'CDC');
